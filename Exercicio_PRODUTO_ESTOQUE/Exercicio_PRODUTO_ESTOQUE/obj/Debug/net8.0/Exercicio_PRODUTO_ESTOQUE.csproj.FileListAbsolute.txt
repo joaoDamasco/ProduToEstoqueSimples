@@ -1,0 +1,14 @@
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\bin\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.exe
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\bin\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.deps.json
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\bin\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.runtimeconfig.json
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\bin\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.dll
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\bin\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.pdb
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\obj\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\obj\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.AssemblyInfoInputs.cache
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\obj\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.AssemblyInfo.cs
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\obj\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.csproj.CoreCompileInputs.cache
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\obj\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.dll
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\obj\Debug\net8.0\refint\Exercicio_PRODUTO_ESTOQUE.dll
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\obj\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.pdb
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\obj\Debug\net8.0\Exercicio_PRODUTO_ESTOQUE.genruntimeconfig.cache
+C:\temp\projects\Exercicio_PRODUTO_ESTOQUE\Exercicio_PRODUTO_ESTOQUE\obj\Debug\net8.0\ref\Exercicio_PRODUTO_ESTOQUE.dll
