@@ -1,0 +1,14 @@
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\bin\Debug\net8.0\PRODUTO_ESTOQUE.exe
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\bin\Debug\net8.0\PRODUTO_ESTOQUE.deps.json
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\bin\Debug\net8.0\PRODUTO_ESTOQUE.runtimeconfig.json
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\bin\Debug\net8.0\PRODUTO_ESTOQUE.dll
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\bin\Debug\net8.0\PRODUTO_ESTOQUE.pdb
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\obj\Debug\net8.0\PRODUTO_ESTOQUE.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\obj\Debug\net8.0\PRODUTO_ESTOQUE.AssemblyInfoInputs.cache
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\obj\Debug\net8.0\PRODUTO_ESTOQUE.AssemblyInfo.cs
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\obj\Debug\net8.0\PRODUTO_ESTOQUE.csproj.CoreCompileInputs.cache
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\obj\Debug\net8.0\PRODUTO_ESTOQUE.dll
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\obj\Debug\net8.0\refint\PRODUTO_ESTOQUE.dll
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\obj\Debug\net8.0\PRODUTO_ESTOQUE.pdb
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\obj\Debug\net8.0\PRODUTO_ESTOQUE.genruntimeconfig.cache
+C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\obj\Debug\net8.0\ref\PRODUTO_ESTOQUE.dll
