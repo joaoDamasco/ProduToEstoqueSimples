@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PRODUTO_ESTOQUE
-build_property.ProjectDir = C:\temp\projects\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\
+build_property.ProjectDir = C:\Users\joao_\OneDrive\Área de Trabalho\Git GitHub\Projeto\PRODUTO_ESTOQUE\PRODUTO_ESTOQUE\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

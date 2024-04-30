@@ -12,7 +12,7 @@ namespace Course
             Preco = preco;
             Quantidade = quantidade;
         }
-
+        //Calcula valor total
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;
@@ -25,6 +25,8 @@ namespace Course
         {
             Quantidade -= quantidade;
         }
+
+        //Atualiza a forma de escrita na apresentação final
         public override string ToString()
         {
             return Nome
